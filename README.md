@@ -1,0 +1,3 @@
+Hey 
+this is my new project from boot.dev
+trying to create a static site generator...
